@@ -54,11 +54,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configure Environment Variables
-Create a `.env` file (copy from `.env.example`):
-
-```bash
-cp .env.example .env
-```
+Create a `.env` file:
 
 Edit and fill in the following:
 ```
